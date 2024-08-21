@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Game_Development\\Prospector_Part_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B982E7A-AC49-5EFD-8CFE-BDD2EF53ECF6}|Assembly-CSharp.csproj|d:\\game_development\\prospector_part_1\\assets\\__scripts\\prospector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B982E7A-AC49-5EFD-8CFE-BDD2EF53ECF6}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\prospector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B982E7A-AC49-5EFD-8CFE-BDD2EF53ECF6}|Assembly-CSharp.csproj|D:\\Game_Development\\Prospector_Part_1\\assets\\__scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B982E7A-AC49-5EFD-8CFE-BDD2EF53ECF6}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B982E7A-AC49-5EFD-8CFE-BDD2EF53ECF6}|Assembly-CSharp.csproj|D:\\Game_Development\\Prospector_Part_1\\assets\\__scripts\\cardprospector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B982E7A-AC49-5EFD-8CFE-BDD2EF53ECF6}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\cardprospector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B982E7A-AC49-5EFD-8CFE-BDD2EF53ECF6}|Assembly-CSharp.csproj|D:\\Game_Development\\Prospector_Part_1\\assets\\__scripts\\jsonparselayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B982E7A-AC49-5EFD-8CFE-BDD2EF53ECF6}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\jsonparselayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B982E7A-AC49-5EFD-8CFE-BDD2EF53ECF6}|Assembly-CSharp.csproj|D:\\Game_Development\\Prospector_Part_1\\assets\\__scripts\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B982E7A-AC49-5EFD-8CFE-BDD2EF53ECF6}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B982E7A-AC49-5EFD-8CFE-BDD2EF53ECF6}|Assembly-CSharp.csproj|D:\\Game_Development\\Prospector_Part_1\\assets\\__scripts\\jsonparsedeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B982E7A-AC49-5EFD-8CFE-BDD2EF53ECF6}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\jsonparsedeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B982E7A-AC49-5EFD-8CFE-BDD2EF53ECF6}|Assembly-CSharp.csproj|D:\\Game_Development\\Prospector_Part_1\\assets\\__scripts\\cardspritesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B982E7A-AC49-5EFD-8CFE-BDD2EF53ECF6}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\cardspritesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prospector.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Prospector_Part_1\\Assets\\__Scripts\\Prospector.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Prospector.cs",
+              "ToolTip": "D:\\Game_Development\\Prospector_Part_1\\Assets\\__Scripts\\Prospector.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Prospector.cs",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAIwBsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T04:31:59.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardProspector.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Prospector_Part_1\\Assets\\__Scripts\\CardProspector.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\CardProspector.cs",
+              "ToolTip": "D:\\Game_Development\\Prospector_Part_1\\Assets\\__Scripts\\CardProspector.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\CardProspector.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwCgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T04:19:49.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonParseLayout.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Prospector_Part_1\\Assets\\__Scripts\\JsonParseLayout.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\JsonParseLayout.cs",
+              "ToolTip": "D:\\Game_Development\\Prospector_Part_1\\Assets\\__Scripts\\JsonParseLayout.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\JsonParseLayout.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAzwBwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:46:43.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Prospector_Part_1\\Assets\\__Scripts\\Card.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Card.cs",
+              "ToolTip": "D:\\Game_Development\\Prospector_Part_1\\Assets\\__Scripts\\Card.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Card.cs",
+              "ViewState": "AQIAAD8BAAAAAAAAAAAowEgBAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:40:43.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Prospector_Part_1\\Assets\\__Scripts\\Deck.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Deck.cs",
+              "ToolTip": "D:\\Game_Development\\Prospector_Part_1\\Assets\\__Scripts\\Deck.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Deck.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:10:22.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CardSpritesSO.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Prospector_Part_1\\Assets\\__Scripts\\CardSpritesSO.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\CardSpritesSO.cs",
+              "ToolTip": "D:\\Game_Development\\Prospector_Part_1\\Assets\\__Scripts\\CardSpritesSO.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\CardSpritesSO.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAowFIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:20:28.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JsonParseDeck.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Prospector_Part_1\\Assets\\__Scripts\\JsonParseDeck.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\JsonParseDeck.cs",
+              "ToolTip": "D:\\Game_Development\\Prospector_Part_1\\Assets\\__Scripts\\JsonParseDeck.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\JsonParseDeck.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAswFEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:35:29.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
